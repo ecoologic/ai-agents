@@ -1,0 +1,73 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-02-05T22:32:16.621Z",
+      "updatedAt": "2026-02-05T22:32:16.621Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
+      "installedAt": "2026-02-06T00:13:21.636Z",
+      "updatedAt": "2026-02-06T00:13:21.636Z"
+    },
+    "react:components": {
+      "source": "google-labs-code/stitch-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/google-labs-code/stitch-skills.git",
+      "skillPath": "skills/react-components/SKILL.md",
+      "skillFolderHash": "d9994fc3663e61df69d65ded7f965be770c35ac9",
+      "installedAt": "2026-02-13T01:00:13.713Z",
+      "updatedAt": "2026-02-13T01:00:13.713Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "079b06a135401704ea94ab74c7c9d86c92ba259f",
+      "installedAt": "2026-02-13T01:00:48.689Z",
+      "updatedAt": "2026-02-13T01:00:48.689Z"
+    },
+    "typescript-advanced-types": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/javascript-typescript/skills/typescript-advanced-types/SKILL.md",
+      "skillFolderHash": "782e78a277e639718b0f9fec905ca51bb16a5a95",
+      "installedAt": "2026-02-13T01:09:47.511Z",
+      "updatedAt": "2026-02-13T01:09:47.511Z"
+    },
+    "react-best-practices": {
+      "source": "0xbigboss/claude-code",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/0xbigboss/claude-code.git",
+      "skillPath": ".claude/skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "e321b6890cdb378275a2c9708302b9ae1d084def",
+      "installedAt": "2026-02-13T01:12:57.208Z",
+      "updatedAt": "2026-02-13T01:12:57.208Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "codex",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "claude-code",
+    "cursor",
+    "antigravity"
+  ]
+}
